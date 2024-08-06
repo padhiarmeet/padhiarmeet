@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Meet</h1>
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **java(DSA),javascript**
