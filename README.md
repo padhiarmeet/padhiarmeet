@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Meet</h1>
+<h2 align="center">Hi there 👋, I'm Meet</h2>
+<br>
 
+- 🌱 I’m currently learning **DSA, Web-Development and Python**.
+ 
+- 📫 How to reach me: **padhiarmeet00@gmail.com**
+ 
+- ⚡ Fun fact: I AM **I am justice**
+<br>
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/padhiarmeet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/padhiarmeet) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/padhiarmeet) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/padhiarmeet) 
