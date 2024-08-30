@@ -12,7 +12,7 @@
  [![My Skills](https://skillicons.dev/icons?i=instagram,twitter,linkedin)](https://skillicons.dev)
 
 ### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,htmx,c,git,github,java,nodejs,npm,react,mongodb,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,c,git,github,java,nodejs,npm,react,mongodb,py&perline=7)](https://skillicons.dev)
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=padhiarmeet&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=padhiarmeet&theme=vision-friendly-dark&hide_border=true)<br/>
