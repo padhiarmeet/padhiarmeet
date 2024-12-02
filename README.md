@@ -1,8 +1,8 @@
 <h2 align="center">Hi there 👋, I'm Meet</h2>
 <br>
 
-- 🌱 I’m currently learning **DSA, Web-Development and Python**.
- 
+- 🌱 I’m currently learning **Python and App development **.
+
 - 📫 How to reach me: **padhiarmeet00@gmail.com**
  
 - ⚡ Fun fact:**I am justice**
