@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **padhiarmeet00@gmail.com**
  
-- ⚡ Fun fact:** I am inevitable.**
+- ⚡ Fun fact:**I am inevitable.**
 <br>
 
 ### 💻 Tech Stack:
