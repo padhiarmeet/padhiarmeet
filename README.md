@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="./catAnimation.gif" width="40"> &nbsp; About Me
+## <img src="./catAnimation.gif" width="40">&nbsp;About Me
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anJmNXBybzA2Ym5scXluamloZjB6dnYydHljazdoNTY0dm84cTJxbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jRBVShYTHG4tsYDBK4/giphy.gif" width="200" />
 
@@ -24,7 +24,7 @@
 
 ---
 
-##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Skills
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; Skills
 <table>
  
   <tr>
