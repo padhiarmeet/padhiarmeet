@@ -66,6 +66,7 @@
     <td>
       <img src="https://skillicons.dev/icons?i=github" width="40" title="GitHub"/>
       <img src="https://skillicons.dev/icons?i=androidstudio" width="40" title="androidstudio"/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" title="vscode"/>
       <img src="https://skillicons.dev/icons?i=docker" width="40" title="docker"/>
      <img src="https://skillicons.dev/icons?i=postman" width="40" title="postman"/>
     </td>
