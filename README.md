@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## <img src="./catAnimation.gif" width="40">&nbsp; About Me
 
 
 - 🎓 &nbsp; Student developer from **India 🇮🇳**
