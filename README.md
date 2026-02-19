@@ -1,19 +1,92 @@
-<h2 align="center">Hi there 👋, I'm Meet</h2>
-<br>
+<div align="center">
 
-- 🌱 I’m currently learning Python and App development .
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0891b2,100:0D1117&height=200&section=header&text=Hey,%20I'm%20Meet%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20and%20Java%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-- 📫 How to reach me: **padhiarmeet00@gmail.com**
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+
+- 🎓 &nbsp; Student developer from **India 🇮🇳**
+- 💙 &nbsp; Passionate about **Flutter & Mobile Development**
+- ☕ &nbsp; Also love building with **Java, React & Node.js**
+- 🌱 &nbsp; Currently leveling up in **Spring Boot & App Dev**
+- 🔭 &nbsp; Always exploring new tech & side projects
+- 📬 &nbsp; Reach me at **padhiarmeet00@gmail.com**
+
+<br clear="right"/>
+
+---
+
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Skills
+<table>
  
-- ⚡ Fun fact:**I am inevitable.**
-<br>
+  <tr>
+    <td><b>Frontend & Mobile</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" title="C"/>
+      <img src="https://skillicons.dev/icons?i=dart" width="40" title="Java"/>
+      <img src="https://skillicons.dev/icons?i=js" width="40" title="Python"/>
+      <img src="https://skillicons.dev/icons?i=react" width="40" title="Dart"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" title="JavaScript"/>
+      <img src="https://skillicons.dev/icons?i=html" width="40" title="html"/>
+      <img src="https://skillicons.dev/icons?i=css" width="40" title="css"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" title="tailwind"/>
+    </td>
+  </tr>
+ 
+  <tr>
+    <td><b> Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring" width="40" title="spring"/>
+      <img src="https://skillicons.dev/icons?i=hibernate" width="40" title="hibernate"/>
+      <img src="https://skillicons.dev/icons?i=java" width="40" title="java"/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" title="nodejs"/>
+      <img src="https://skillicons.dev/icons?i=prisma" width="40" title="prisma"/>
+    </td>
+  </tr>
+  
+   <tr>
+    <td><b> Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" title="postgres"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" title="mongodb"/>
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" title="mysql"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><b> Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=github" width="40" title="GitHub"/>
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" title="androidstudio"/>
+      <img src="https://skillicons.dev/icons?i=docker" width="40" title="docker"/>
+     <img src="https://skillicons.dev/icons?i=postman" width="40" title="postman"/>
+    </td>
+  </tr>
+  
+</table>
 
-### 💻 Tech Stack:
+---
 
-[![My Skills](https://skillicons.dev/icons?i=github,c,java,html,css,js,nodejs,react,bootstrap,tailwind,mongodb,vite,dart,flutter,firebase,py&perline=8)](https://skillicons.dev)
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<a href="http://www.github.com/padhiarmeet"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=padhiarmeet&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="meet's GitHub stats" /></a>
-
+<div align="center">
 
 
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=padhiarmeet&stroke=0891b2&background=0D1117&ring=0891b2&fire=ff6e6e&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=444444&hide_border=true" />
+
+<br/>
+
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0891b2,100:0D1117&height=100&section=footer" />
+</div>
