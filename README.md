@@ -19,6 +19,7 @@
 - 🌱 &nbsp; Currently leveling up in **Spring Boot & App Dev**
 - 🔭 &nbsp; Always exploring new tech & side projects
 - 📬 &nbsp; Reach me at **padhiarmeet00@gmail.com**
+- 🌐 &nbsp; Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com](https://padhiyar-meet.netlify.app/))
 
 <br clear="right"/>
 
